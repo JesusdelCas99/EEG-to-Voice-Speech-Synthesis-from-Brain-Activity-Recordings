@@ -15,7 +15,7 @@ The project consists of several key scripts and directories:
   Contains plotted files generated from canonical correlation analysis for each patient, saved as `acc_XXX.eps` files, where `XXX` denotes the patient ID.
   
 - **`iBDS-dataset/`**  
-  Stores i-BDS formatted data for each patient, including audio and iEEG recordings after segmentation. The folder is organized as follows:
+  Stores i-BDS formatted data for each patient, including audio and iEEG recordings after segmentation:
   - `audio_data/`: Raw audio data from patients.
   - `ieeg_data/`: Raw iEEG recordings from patients.
   - `audio_features/`: Extracted audio features.
