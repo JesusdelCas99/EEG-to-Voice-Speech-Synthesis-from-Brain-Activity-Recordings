@@ -1,6 +1,6 @@
 # EEG-to-Voice: Speech Synthesis from Brain Activity Recordings
 
-This repository contains code developed for the master’s thesis titled "Brain-to-Speech Synthesis System" at the Universidad de Granada, as part of the requirements for obtaining a Master’s in Telecommunications Engineering for the 2023/2024 academic year. 
+This repository contains the code developed as part of the master's thesis "EEG-to-Voice: Speech Synthesis from Brain Activity Recordings," submitted in fulfillment of the requirements for a Master's degree in Telecommunications Engineering from the Universidad de Granada, during the 2023/2024 academic year.
 
 ## Overview
 
