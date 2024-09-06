@@ -44,18 +44,6 @@ The project consists of several key scripts and directories:
 - **`setup.cfg`**  
   Configuration file containing hyperparameters for feature extraction, model design, and training.
 
-### Other Files
-- **`requirements-windows.txt`**  
-  Contains the required Python dependencies for running the project on a Windows system. Install them using the following command:
-  ```bash
-  pip install -r requirements-windows.txt
-  ```
-
-- **`requirements-wsl2.txt`**  
-  Contains the required dependencies for running on Linux systems or Windows Subsystem for Linux 2 (WSL 2). Some scripts, such as `compute_audio_metrics.py`, may not be supported on Windows due to package compatibility. Install these dependencies using:
-  ```bash
-  pip install -r requirements-wsl2.txt
-  ```
 
 ## Setup and Installation
 
