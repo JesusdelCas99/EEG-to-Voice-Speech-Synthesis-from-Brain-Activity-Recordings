@@ -620,7 +620,6 @@ if __name__ == '__main__':
             print(X_train.shape)
             print(X_val.shape)
             
-            sys.exit()
             # Train the models using the preprocessed training data
             models = train_models(X_train, X_val, Y_train, Y_val)
 
