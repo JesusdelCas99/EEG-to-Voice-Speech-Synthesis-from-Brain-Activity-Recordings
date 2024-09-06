@@ -43,6 +43,9 @@ The project consists of several key scripts and directories:
 - **`s2a_feature_synthesis.py`**  
   Implements the design, training, validation, and testing of the speech synthesis models.
 
+- **`cca_analysis.py`**  
+  Performs Canonical Correlation Analysis (CCA) to assess the relationship between characteristics derived from audio and EEG data for each patient.
+  
 - **`setup.cfg`**  
   Configuration file containing hyperparameters for feature extraction, model design, and training.
 
